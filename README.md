@@ -1,7 +1,7 @@
-# Install Raylib
+Install Raylib
 
-# Compile
+Compile
 # g++ billiard_8ball.cpp -o billiard -lraylib -lm -lpthread -ldl -lrt -lGL
 
-# Run
+Run
 # ./billiard
