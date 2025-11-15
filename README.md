@@ -13,6 +13,6 @@ compile:
 
 # Run
 run:
-    ```b
+    ```
     ./billiard
     ```
