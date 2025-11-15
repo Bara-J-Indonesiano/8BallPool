@@ -1,7 +1,18 @@
-Install Raylib
+# Install Raylib
+Linux:
+    ```bash
+    sudo add-apt-repository ppa:texus/raylib
+    sudo apt install libraylib5-dev
+    ```
 
-Compile
-# g++ billiard_8ball.cpp -o billiard -lraylib -lm -lpthread -ldl -lrt -lGL
+# Compile
+compile:
+    ```bash
+    g++ billiard_8ball.cpp -o billiard -lraylib -lm -lpthread -ldl -lrt -lGL
+    ```
 
-Run
-# ./billiard
+# Run
+run:
+    ```bash
+    ./billiard
+    ```
